@@ -1,0 +1,75 @@
+PEP: 9999
+Title: The Editorial Board Model
+Author: Joanna Jablonski
+Sponsor: Mariatta Wijaya
+Status: Draft
+Type: Informational
+Topic: Governance
+Content-Type: text/x-rst
+Created: TODO
+
+
+Abstract
+========
+
+This PEP formalizes a model for docs governance. Although the Steering 
+Council has already approved the creation of an editorial board for 
+Python's docs, this PEP documents and formalizes how the editorial board 
+will work. 
+
+Specification
+=============
+
+The Editorial Board
+--------------------
+
+Composition
+~~~~~~~~~~~
+
+[DISCUSSION: Do we want to set limits on the number of members?]
+
+
+Mandate
+~~~~~~~
+
+The editorial board will:
+
+* Maintain and improve the quality of Python's documentation
+* Make contributing to documentation as accessible, inclusive, 
+  and sustainable as possible
+* Establish appropriate decision-making processes for documentaion
+* Seek consensus among contributors before acting in a formal capacity
+* Be the final arbiter for docs decisions
+
+
+Powers
+~~~~~~
+
+The board has authority to make decisions about documentation.
+For example, they can:
+
+* Set big-picture strategy for documentation
+* Restructure documentation
+* Make style decisions
+* Handle docs governance (e.g. Do docs pages have owners? How do we 
+  resolve disagreements? How do we decide what to include?)
+
+
+Joining the Editorial Board
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[DISCUSSION: How should new board members be added?]
+
+Editorial board members have:
+
+- A good grasp of the philosophy of the Python project
+- A background in Python education and developer-facing documentation
+- A solid track record of being constructive and helpful
+- A history of making significant contributions to the project's goals
+- A willingness to dedicate some time to improving Python
+
+
+Copyright
+=========
+
+This document has been placed in the public domain.
