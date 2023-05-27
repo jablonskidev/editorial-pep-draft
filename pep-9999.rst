@@ -66,7 +66,7 @@ Editorial board members have:
 - A background in Python education and developer-facing documentation
 - A solid track record of being constructive and helpful
 - A history of making significant contributions to the project's goals
-- A willingness to dedicate some time to improving Python
+- A willingness to dedicate time to improving Python's docs
 
 
 Copyright
