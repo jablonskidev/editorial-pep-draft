@@ -37,7 +37,7 @@ The editorial board will:
 * Maintain and improve the quality of Python's documentation
 * Make contributing to documentation as accessible, inclusive, 
   and sustainable as possible
-* Establish appropriate decision-making processes for documentaion
+* Establish appropriate decision-making processes for documentation
 * Seek consensus among contributors before acting in a formal capacity
 * Be the final arbiter for docs decisions
 
